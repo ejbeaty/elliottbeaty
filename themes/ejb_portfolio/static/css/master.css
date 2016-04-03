@@ -1,0 +1,239 @@
+.red {
+  display: inline-block;
+}
+.red-always {
+  color: red;
+}
+.red-always ul {
+  color: red;
+}
+.red:hover {
+  color: red;
+}
+.layover-text {
+  opacity: 1;
+  color: white;
+  background-color: rgba(106, 106, 104, 0.65);
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 5px;
+}
+.transparent {
+  opacity: .65;
+}
+.center-page-offset {
+  height: 100px;
+  position: absolute;
+  top: -100%;
+  bottom: 0%;
+  left: 0;
+  right: 0;
+}
+.float-right {
+  float: right;
+}
+.float-left {
+  float: left;
+}
+.signature-text {
+  color: white;
+  font-size: 4em;
+  font-family: 'Mr Dafoe', cursive;
+  letter-spacing: 0px;
+  text-align: center;
+}
+.signature-toggle ul {
+  font-size: 2em;
+  padding-right: 65px;
+}
+.big-center-text {
+  color: white;
+  font-size: 4em;
+  font-weight: bold;
+  font-family: 'Teko', sans-serif;
+  letter-spacing: 4px;
+  text-align: center;
+  text-transform: uppercase;
+}
+.layover-text {
+  opacity: 1;
+  color: white;
+  background-color: rgba(106, 106, 104, 0.65);
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 5px;
+}
+.transparent {
+  opacity: .65;
+}
+html,
+body {
+  height: 100%;
+}
+body {
+  margin: 0;
+}
+.page-container {
+  margin-top: 200px;
+  margin-left: 20%;
+  margin-right: 20%;
+  position: relative;
+}
+.page-section {
+  padding: 5px;
+  margin: 10px;
+  color: white;
+  width: 100%;
+  display: none;
+}
+.page-section-content {
+  font-size: 1.5em;
+}
+.signature-text {
+  color: white;
+  font-size: 4em;
+  font-family: 'Mr Dafoe', cursive;
+  letter-spacing: 0px;
+  text-align: center;
+}
+.signature-toggle ul {
+  font-size: 2em;
+  padding-right: 65px;
+}
+.big-center-text {
+  color: white;
+  font-size: 4em;
+  font-weight: bold;
+  font-family: 'Teko', sans-serif;
+  letter-spacing: 4px;
+  text-align: center;
+  text-transform: uppercase;
+}
+body {
+  background-image: url("/images/ElliottBackground.png");
+  background-size: cover;
+  background-attachment: fixed;
+}
+.red {
+  display: inline-block;
+}
+.red-always {
+  color: red;
+}
+.red-always ul {
+  color: red;
+}
+.red:hover {
+  color: red;
+}
+.float-right {
+  float: right;
+}
+.float-left {
+  float: left;
+}
+.contact-logos {
+  display: inline-flex;
+}
+.contact-logo {
+  margin: 30px;
+  font-size: .5em;
+  text-align: right;
+}
+.contact-logo:hover {
+  opacity: .35;
+}
+/* Medium Devices, Tablets */
+@media only screen and (max-width: 790px) {
+  .page-container {
+    margin-top: 50px;
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+  .big-center-text {
+    font-size: 2em;
+    letter-spacing: 2px;
+  }
+  .signature-text {
+    font-size: 1.8em;
+  }
+  .page-container {
+    position: relative;
+    height: auto;
+  }
+  .page-section {
+    width: 90%;
+  }
+}
+/* Extra Small Devices, Phones */
+@media only screen and (max-width: 440px) {
+  .page-container {
+    margin-top: 20px;
+    margin-left: 3%;
+    margin-right: 3%;
+  }
+  .big-center-text {
+    font-size: 1.8em;
+    letter-spacing: 1px;
+  }
+  .contact-logo {
+    margin: 0 70px 30px 70px;
+  }
+  .page-section-content {
+    position: relative;
+  }
+  .page-section-content {
+    font-size: 1.2em;
+  }
+}
+.menu-position {
+  margin-top: 30px;
+  margin-right: 30px;
+  position: relative;
+}
+.menu-override,
+.menu-override .navbar-nav > li > a,
+.menu-override .navbar-collapse,
+.menu-override .navbar-default {
+  color: white;
+  font-size: 35px;
+  font-family: 'Teko', sans-serif;
+  letter-spacing: 3px;
+  background: none;
+  border: none;
+  border-color: none;
+  opacity: 1;
+  text-align: right;
+}
+.menu-button-dashes {
+  background-color: red !important;
+}
+.menu-override .navbar-nav > li > a:hover {
+  color: red;
+}
+#portfolio .panel {
+  padding: 0 20px 10px 20px;
+}
+#portfolio h2 {
+  color: red;
+  margin-top: 10px;
+}
+#portfolio h3 {
+  margin-top: 5px;
+}
+#portfolio .image {
+  width: 100%;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  opacity: 0.9;
+}
+@media only screen and (max-width: 440px) {
+  h2 {
+    font-size: 20px;
+  }
+  .image {
+    display: none;
+  }
+}

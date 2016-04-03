@@ -1,0 +1,33 @@
+#portfolio {
+   
+    .panel {
+         padding: 0 20px 10px 20px;
+    }
+    h2 {
+        color: @theme-primary;
+        margin-top: 10px;
+    }
+
+    h3 {
+        margin-top: 5px;
+    }
+
+    .image {
+        width: 100%;
+        background-position: top;
+        background-repeat: no-repeat;
+        background-size: cover;
+        position:relative;
+        opacity: @image-opacity;
+    }
+}
+
+@media only screen and (max-width : 440px) {
+    h2 {
+        font-size:20px;
+    }
+
+    .image {
+        display: none;
+    }
+}

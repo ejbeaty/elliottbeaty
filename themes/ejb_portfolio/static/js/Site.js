@@ -22,21 +22,6 @@
                 } else {
                     $('.signature-toggle').show();
                 }
-                //$('.page-section').addClass('animated lightSpeedOut').one(animationEnd, function () {
-
-                //    // Hide it so it doesn't take up space even though it's not showing
-                //    $('.page-section').removeClass('animated lightSpeedOut');
-                    
-                //    $('.page-section').hide();
-                //    $(elementId).show();
-                //    window.location.hash = elementId;
-
-                //    if (window.location.hash == '#home') {
-                //        $('.signature-toggle').hide();
-                //    } else {
-                //        $('.signature-toggle').show();
-                //    }
-                //});
             }
         }
     });

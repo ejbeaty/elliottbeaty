@@ -14,10 +14,15 @@ canonifyurls = "true"
 	url = "#about"
 	weight = 2
 [[menu.main]]
+	name = "portfolio"
+	identifier = "portfolio"
+	url = "#portfolio"
+	weight = 3
+[[menu.main]]
 	name = "contact"
 	identifier = "contact"
 	url = "#contact"
-	weight = 2
+	weight = 4
 
 
 
