@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html>
+{{ partial "header.html" . }}
+<body>
+   
+{{ partial "topmenu.html" . }}
+
+
+        <div class="page-container center-page" >
+
+                <div id="home" class="page-section page-section-signature" style="display:none;">
+                   
+                        {{ partial "signature.html"}}
+                        {{ partial "headline.html"}}
+                   
+                </div>
+
+                <!--Foreach Page w/ Params.id-->
+                {{ range where .Site.Pages "Params.showinmenu" "true"}}
+                    <div id="{{.Params.id}}" class="page-section" style="display:none;text-align:{{.Params.textalign}}">
+                        <div class="page-section-content">
+                            {{.Render}}
+                        </div>
+                    </div>
+                {{ end }}
+
+           
+        </div>
+    
+
+
+
+
+
+
+   
+    {{ partial "footer.html" . }}
+</body>
+
+</html>

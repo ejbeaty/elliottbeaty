@@ -1,0 +1,26 @@
+﻿.menu-position {
+    margin-top: 30px;
+    margin-right: 30px;
+    position: relative;
+}
+
+.menu-override, .menu-override .navbar-nav > li > a, .menu-override .navbar-collapse, .menu-override .navbar-default {
+    color: white;
+    font-size: 35px;
+    font-family: 'Teko', sans-serif;
+    letter-spacing: 3px;
+    background: none;
+    border: none;
+    border-color: none;
+    opacity: 1;
+    text-align: right;
+}
+
+
+.menu-button-dashes {
+    background-color: red !important;
+}
+
+.menu-override .navbar-nav > li > a:hover {
+    color: red;
+}

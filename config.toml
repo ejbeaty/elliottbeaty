@@ -1,0 +1,23 @@
+baseurl = "http://e11iott.com"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "ejb_portfolio"
+canonifyurls = "true"
+[[menu.main]]
+	name = "home"
+	identifier = "home"
+	url = "#home"
+	weight = 1
+[[menu.main]]
+	name = "about"
+	identifier = "about"
+	url = "#about"
+	weight = 2
+[[menu.main]]
+	name = "contact"
+	identifier = "contact"
+	url = "#contact"
+	weight = 2
+
+
+
