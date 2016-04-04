@@ -17,18 +17,92 @@
 
         <!--Foreach Page w/ Params.id-->
         {{ range  $page := where .Data.Pages "Section" "page"}}
-            {{ .Render "page_single" }}
+        {{ .Render "page_single" }}
         {{ end }}
 
         <!--Portfolio-->
         <div id="portfolio" class="page-section">
-            {{ range  $page := where .Data.Pages "Section" "portfolio"}}
-            {{ .Render "portfolio_list" }}
-            {{ end }}
+            <div class="grid-wrapper">
+                <div class="grid">
+                    <div class="grid-sizer"></div>
+                    {{ range  $page := where .Data.Pages "Section" "portfolio"}}
+                        {{ .Render "portfolio_list" }}
+                    {{ end }}
+                </div>
+            </div>
+
+            
+
+
         </div>
 
     </div>
     {{ partial "footer.html" . }}
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+
+        /* ---- grid ---- */
+        .grid-wrapper {
+            text-align: center !important;
+        }
+
+        .grid {
+            width: 100%;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+            /* clearfix */
+            .grid:after {
+                content: '';
+                display: block;
+                clear: both;
+            }
+
+        /* ---- grid-item ---- */
+
+        .grid-sizer,
+        .grid-item {
+            width: 20%;
+        }
+
+        .grid-item {
+            margin-left: auto;
+            margin-right: auto;
+            height: 220px;
+            color: white;
+            background-color: rgba(106, 106, 104,0.65);
+            border: 1px solid red;
+            margin-bottom: 10px;
+            border-radius: 5px;
+            padding:10px;
+        }
+        .technology-logo{
+            max-width:100px;
+            max-height:100px;
+            margin:10px;
+        }
+        .wider {
+            width: 40%;
+        }
+
+        .widest {
+            width: 60%;
+        }
+        .short {
+            height: 170px;
+        }
+        .taller {
+            height: 280px;
+        }
+
+        .tallest {
+            height: 360px;
+        }
+    </style>
 </body>
 
 </html>
