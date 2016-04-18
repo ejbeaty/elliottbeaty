@@ -1,0 +1,11 @@
+<div class="grid-item {{.Params.gridwidth}} {{.Params.gridheight}} animated {{.Params.animation}}">
+    <h4>{{ .Title }}</h4>
+    {{ .Content }}
+    {{range .Params.technologies}}
+    <img class="technology-logo" src="/static/img/portfolio/{{.}}.png" />
+    
+    {{end}}
+    
+</div>
+
+

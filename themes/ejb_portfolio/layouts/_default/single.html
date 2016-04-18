@@ -1,4 +1,23 @@
+<!DOCTYPE html>
+<html>
+{{ partial "header.html" . }}
+<body>
 
+    {{ partial "topmenu.html" . }}
 
-{{ .Content }}
+    <div class="page-container  animated lightSpeedIn" >
+        <div class="page-section" style="text-align:{{.Params.textalign}}">
+            <div class="page-section-content">
+                {{.Content}}
+            </div>
+        </div>
+    </div>
+
+    {{ partial "footer.html" . }}
+    <style>
+    </style>
+</body>
+
+</html>
+
 

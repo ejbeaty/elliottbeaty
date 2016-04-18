@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://elliottbeaty.com/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Feb 2016 17:15:37 -0700</lastBuildDate>
+    <atom:link href="http://elliottbeaty.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>contact</title>
+      <link>http://elliottbeaty.com/contact/</link>
+      <pubDate>Tue, 23 Feb 2016 17:15:37 -0700</pubDate>
+      
+      <guid>http://elliottbeaty.com/contact/</guid>
+      <description>&lt;p&gt;Please don&amp;rsquo;t hesitate to reach out.
+﻿
+&lt;div class=&#34;contact-logos&#34;&gt;
+    &lt;a href=&#34;https://www.linkedin.com/in/elliott-beaty-950095b0&#34; class=&#34;contact-logo&#34;&gt;
+        &lt;i style=&#34;color:white&#34; class=&#34;fa fa-linkedin fa-5x&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+
+﻿
+&lt;div class=&#34;contact-logos&#34;&gt;
+    &lt;a href=&#34;mailto:elliott@elliottbeaty.com&#34; class=&#34;contact-logo&#34;&gt;
+        &lt;i style=&#34;color:none&#34; class=&#34;fa fa-envelope-o fa-5x&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+
+﻿
+&lt;div class=&#34;contact-logos&#34;&gt;
+    &lt;a href=&#34;http://stackoverflow.com/users/1159067/&#34; class=&#34;contact-logo&#34;&gt;
+        &lt;i style=&#34;color:orange&#34; class=&#34;fa fa-stack-overflow fa-5x&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Elliott Beaty</title>
+      <link>http://elliottbeaty.com/about/</link>
+      <pubDate>Tue, 23 Feb 2016 08:52:35 -0700</pubDate>
+      
+      <guid>http://elliottbeaty.com/about/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m an IT professional that has spent his career building N-tier systems for Fortune 500s. I&amp;rsquo;ve led and been an individual contributor on projects ranging from $20k to $4MM in budget. I love variety and I love ambiguous problems.&lt;br /&gt;
+&lt;br/&gt;
+I devour new technologies and have dabbled in everything from RPG to Raspberry Pi automation. The .NET stack is my towering pillar of strength but I love to leverage open source technologies when they&amp;rsquo;re a better fit for the job.&lt;br /&gt;
+&lt;br/&gt;
+I have deep experience in the entire SDLC and have held developer, analyst, and project manager roles throughout my career.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title> BricksForDan.org</title>
+      <link>http://elliottbeaty.com/projects/bricksfordan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://elliottbeaty.com/projects/bricksfordan/</guid>
+      <description>&lt;p&gt;bircksfordantest&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title> General Mills Promo Engine</title>
+      <link>http://elliottbeaty.com/projects/promoengine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://elliottbeaty.com/projects/promoengine/</guid>
+      <description>&lt;p&gt;The one-touch point for over 300 websites to submit promotions&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Haagendazs.com.au</title>
+      <link>http://elliottbeaty.com/projects/haagendazs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://elliottbeaty.com/projects/haagendazs/</guid>
+      <description>&lt;p&gt;The one-touch point for over 300 websites to submit promotions&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title> General Mills Contact Form Wizard</title>
+      <link>http://elliottbeaty.com/projects/contactform/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://elliottbeaty.com/projects/contactform/</guid>
+      <description>&lt;p&gt;The wizard that spins out every contact form used on General Mills websites&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title> Generalmills.com</title>
+      <link>http://elliottbeaty.com/projects/generalmills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://elliottbeaty.com/projects/generalmills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Haagendazs Tast Testing Booking Engine</title>
+      <link>http://elliottbeaty.com/projects/hdbooking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://elliottbeaty.com/projects/hdbooking/</guid>
+      <description>&lt;p&gt;The backend system that managed online registrations for Haagendazs taste testing events&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>srstorage.com</title>
+      <link>http://elliottbeaty.com/projects/srstorage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://elliottbeaty.com/projects/srstorage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Muffinbot</title>
+      <link>http://elliottbeaty.com/projects/muffin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://elliottbeaty.com/projects/muffin/</guid>
+      <description>&lt;p&gt;An automated Craigslist scanner based on predetermined search criteria&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bringbackthebees.ca</title>
+      <link>http://elliottbeaty.com/projects/bringbackthebees/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://elliottbeaty.com/projects/bringbackthebees/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>valbeale.com</title>
+      <link>http://elliottbeaty.com/projects/valbeale/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://elliottbeaty.com/projects/valbeale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Datatables.net CellEdit</title>
+      <link>http://elliottbeaty.com/projects/celledit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://elliottbeaty.com/projects/celledit/</guid>
+      <description>&lt;p&gt;A plugin that allows for editable cells within the Datatables.net framework&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

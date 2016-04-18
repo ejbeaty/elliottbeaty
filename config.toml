@@ -1,27 +1,23 @@
-baseurl = "http://e11iott.com"
+baseurl = "http://elliottbeaty.com"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ejb_portfolio"
 canonifyurls = "true"
 [[menu.main]]
 	name = "home"
-	identifier = "home"
-	url = "#home"
+	url = "/"
 	weight = 1
 [[menu.main]]
 	name = "about"
-	identifier = "about"
-	url = "#about"
+	url = "/about/"
 	weight = 2
 [[menu.main]]
 	name = "portfolio"
-	identifier = "portfolio"
-	url = "#portfolio"
+	url = "/projects/"
 	weight = 3
 [[menu.main]]
 	name = "contact"
-	identifier = "contact"
-	url = "#contact"
+	url = "/contact/"
 	weight = 4
 
 

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+{{ partial "header.html" . }}
+<body>
+
+    {{ partial "topmenu.html" . }}
+
+    <div class="page-container">
+
+        <div id="portfolio" class="page-section">
+            <div class="grid-wrapper">
+                <div class="grid">
+                    <div class="grid-sizer"></div>
+                    {{ range .Data.Pages  }}
+                    {{ .Render }}
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+    </div>
+
+    {{ partial "footer.html" . }}
+    <style>
+    </style>
+</body>
+
+</html>
+
+
