@@ -2,7 +2,7 @@
 weight = 8
 title = "Bringbackthebees.ca"
 technologies = ["net","silverpop"]
-gridWidth = "wide"
+gridWidth = ""
 gridHeight = "short"
 animation = "rotateInDownRight"
 +++

@@ -58,12 +58,12 @@ I have deep experience in the entire SDLC and have held developer, analyst, and 
     </item>
     
     <item>
-      <title> BricksForDan.org</title>
-      <link>http://elliottbeaty.com/projects/bricksfordan/</link>
+      <title>Polaris Dealer Extranet</title>
+      <link>http://elliottbeaty.com/projects/dex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://elliottbeaty.com/projects/bricksfordan/</guid>
-      <description>&lt;p&gt;bircksfordantest&lt;/p&gt;
+      <guid>http://elliottbeaty.com/projects/dex/</guid>
+      <description>&lt;p&gt;Responsible for support and development of the the industry-leading extranet within the Power Sports industry.&lt;/p&gt;
 </description>
     </item>
     
@@ -78,12 +78,22 @@ I have deep experience in the entire SDLC and have held developer, analyst, and 
     </item>
     
     <item>
+      <title>LeagueFab Mobile App</title>
+      <link>http://elliottbeaty.com/projects/leaguefab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://elliottbeaty.com/projects/leaguefab/</guid>
+      <description>&lt;p&gt;Co founder and mobile developer: &lt;a href=&#34;http://leaguefab.com&#34;&gt;http://leaguefab.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Haagendazs.com.au</title>
       <link>http://elliottbeaty.com/projects/haagendazs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://elliottbeaty.com/projects/haagendazs/</guid>
-      <description>&lt;p&gt;The one-touch point for over 300 websites to submit promotions&lt;/p&gt;
+      <description>&lt;p&gt;Established the first web presence for Haagen Dazs in Australia!&lt;/p&gt;
 </description>
     </item>
     
@@ -126,6 +136,15 @@ I have deep experience in the entire SDLC and have held developer, analyst, and 
     </item>
     
     <item>
+      <title> BricksForDan.org</title>
+      <link>http://elliottbeaty.com/projects/bricksfordan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://elliottbeaty.com/projects/bricksfordan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Muffinbot</title>
       <link>http://elliottbeaty.com/projects/muffin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -145,22 +164,22 @@ I have deep experience in the entire SDLC and have held developer, analyst, and 
     </item>
     
     <item>
+      <title>USBank CC Integration</title>
+      <link>http://elliottbeaty.com/projects/usbank/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://elliottbeaty.com/projects/usbank/</guid>
+      <description>&lt;p&gt;Architected the integration process between Polaris and the US Bank credit card processing center.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>valbeale.com</title>
       <link>http://elliottbeaty.com/projects/valbeale/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://elliottbeaty.com/projects/valbeale/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title> Datatables.net CellEdit</title>
-      <link>http://elliottbeaty.com/projects/celledit/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://elliottbeaty.com/projects/celledit/</guid>
-      <description>&lt;p&gt;A plugin that allows for editable cells within the Datatables.net framework&lt;/p&gt;
-</description>
     </item>
     
   </channel>

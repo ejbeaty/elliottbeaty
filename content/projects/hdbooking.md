@@ -1,7 +1,7 @@
 +++
 weight = 6
 title = "Haagendazs Tast Testing Booking Engine"
-technologies = ["jquery","net"]
+technologies = ["jquery","net","less"]
 gridWidth = "widest"
 gridHeight = "short"
 animation = "flipInY"
